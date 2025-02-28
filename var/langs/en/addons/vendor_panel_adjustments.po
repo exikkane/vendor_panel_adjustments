@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::vendor_panel_adjustments"
+msgid "Vendor panel adjustments"
+msgstr "Vendor panel adjustments"
+
+msgctxt "Addons::description::vendor_panel_adjustments"
+msgid "The modification of the vendor panel that is prepared as a part of CS-Cart Support Development Hours"
+msgstr "The modification of the vendor panel that is prepared as a part of CS-Cart Support Development Hours"

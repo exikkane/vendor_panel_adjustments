@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>vendor_panel_adjustments</id>
+    <version>1.0</version>
+    <priority>1000</priority>
+    <position>45</position>
+    <status>active</status>
+    <supplier>A. Larionov | CS-Cart</supplier>
+    <default_language>ru</default_language>
+</addon>
