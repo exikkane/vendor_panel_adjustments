@@ -1,0 +1,1 @@
+# Vendor Panel Adjustments
