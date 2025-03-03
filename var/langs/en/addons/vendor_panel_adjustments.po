@@ -11,3 +11,7 @@ msgstr "Vendor panel adjustments"
 msgctxt "Addons::description::vendor_panel_adjustments"
 msgid "The modification of the vendor panel that is prepared as a part of CS-Cart Support Development Hours"
 msgstr "The modification of the vendor panel that is prepared as a part of CS-Cart Support Development Hours"
+
+msgctxt "Languages::no_items_changed"
+msgid "No items defined. Please check if you've specified at least one category for this product"
+msgstr "No items defined. Please check if you've specified at least one category for this product"
